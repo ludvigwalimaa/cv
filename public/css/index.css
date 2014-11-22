@@ -1,0 +1,25 @@
+html {
+		overflow-y: scroll;
+}
+body{
+	font-family: 'Lora' , sans-serif;
+	color: rgba(0, 0, 0, 0.8);
+	background-color: white;
+}
+
+
+.col-xs-12{
+	color: black;
+	text-align: center;
+	
+}
+
+.contentrecordhidden{
+	display: none;
+}
+
+.more:hover{
+	text-decoration: underline;
+	cursor: pointer;
+	cursor: hand;
+}

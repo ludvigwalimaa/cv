@@ -1,0 +1,62 @@
+.navigation{
+	/*background-color: rgb(216,216,216);  Grå bakgrund*/
+	background-color: white;
+	border-bottom: solid rgba(144,144,144, 0.4) 1px;
+
+}
+
+.navigation .name{
+	padding-top: 10px;
+}
+
+.info ul{
+	text-align: left;
+	font-size: 12px;
+	padding: 0px;
+	padding-right: 15px;
+	list-style-type: none;
+}
+
+.img{
+	padding: 0px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	border: solid rgb(144,144,144) 2px;
+	border-radius: 2px;
+}
+
+
+.iconmenu{
+	font-size: 12px;
+	text-align: center;
+}
+.iconmenu table td{
+	padding: 3px;
+}
+
+.iconmenu a{
+	margin-right: 5px;
+}
+
+.iconmenu a, .iconmenu a:visited, .iconmenu a:active{
+	color: rgb(144,144,144);
+}
+
+a:hover{
+	cursor: pointer;
+	cursor: hand;
+}
+
+
+
+.iconmenu #btnLI:hover{
+	color: rgb(0, 123, 182);
+}
+
+.iconmenu #btnAT:hover{
+	color: rgba(0, 0, 0, 0.8);
+}
+
+.iconmenu #btnGIT:hover{
+	color: rgba(0, 0, 0, 0.8);
+}

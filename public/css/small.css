@@ -1,0 +1,45 @@
+/*
+	navigation
+*/
+.navigation .name{
+	font-size: 45px;
+	text-align: left;
+	padding-left: 20px;
+}
+
+#menu{
+	padding-top: 20px;
+	text-align: right;
+}
+
+.info ul{
+	font-size: 14px;
+}
+
+/*
+	Content
+*/
+.contenttype .ctype{
+				text-align: right;
+				font-size: 22px;
+			}
+
+.cheader{
+	font-size: 16px;
+}
+
+.cdate{
+	font-size: 12px;
+}
+
+.clocation{
+	font-size: 12px;
+}
+
+.ctext{
+	font-size: 12px;
+}
+
+.more{
+	margin-left: 250px;
+}
