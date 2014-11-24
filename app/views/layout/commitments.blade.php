@@ -1,6 +1,6 @@
 <div class="row contenttype">
 			<div class="col-xs-3">
-				<div class="ctype">Övriga meritessr</div>
+				<div class="ctype">Övriga meriter</div>
 				<!-- Engagemang, Antaganden, Övriga kval. -->
 
 			</div>
