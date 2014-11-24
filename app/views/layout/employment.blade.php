@@ -45,7 +45,7 @@
 
 		<div class="row">
 			<div class="col-xs-12">	
-				<div class="more" data-panelid="hidden_emp">Mer&nbsp; <i class="fa fa-chevron-down"></i></div>
+				<div class="more" data-panelid="hidden_emp"></div>
 			</div>
 		</div>
 

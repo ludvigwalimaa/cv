@@ -45,6 +45,6 @@
 
 		<div class="row">
 			<div class="col-xs-12">	
-				<div class="more" data-panelid="hidden_edu">Mer</div>
+				<div class="more" data-panelid="hidden_edu"></div>
 			</div>
 		</div>

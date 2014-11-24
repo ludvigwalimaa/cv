@@ -27,6 +27,7 @@
 				$(".more").click(function() {
 					var panelId = $(this).attr('data-panelid');
 					$('#'+panelId).slideToggle("slow");
+					$(this).toggleClass('active');
 				});
 			});
 		</script>
@@ -57,6 +58,14 @@
 				text-decoration: underline;
 				cursor: pointer;
 				cursor: hand;
+			}
+
+			.more:after{
+				content: "+ Mer";
+			}
+
+			.more.active:after{
+				content: "- Mer";
 			}
 
 			

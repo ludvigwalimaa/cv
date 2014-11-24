@@ -23,3 +23,12 @@ body{
 	cursor: pointer;
 	cursor: hand;
 }
+
+.more:after{
+	content: "x";
+}
+
+.more.active:after{
+	content: "-";
+}
+
