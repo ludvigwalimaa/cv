@@ -61,7 +61,7 @@
 			}
 
 			.more:after{
-				content: "+ Mer";
+				content: "+ Mera";
 			}
 
 			.more.active:after{
